@@ -173,7 +173,7 @@ p {
 #home-info .info-img {
 	float: left;
 	width: 50%;
-	background: urL('../img/photo-1.png') no-repeat center/cover;
+	background: urL('img/photo-1.png') no-repeat center/cover;
 	min-height: 100%;
 }
 
